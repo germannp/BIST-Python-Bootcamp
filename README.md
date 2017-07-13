@@ -9,13 +9,13 @@ Suggested Installation
 
 Sessions
 --------
-1. Anaconda, Jupyter, Git & Best Practices (Justin & Philipp)
+1. Anaconda, Jupyter, Spyder, Git & Best Practices [Justin & Philipp]
 2. Introduction to Python
 3. Operations, Types, Functions
-4. Vectors, Matrices & Dataframes
-5. Plotting, Data Visualization & Exploration
-6. Optimizing Parametric Functions, Integrattion & ODEs
-7. Testing, Profiling & Optimizing Performance (Philipp)
+4. Vectors, Matrices & Dataframes (NumPy & Pandas)
+5. Plotting, Data Visualization & Exploration (Matplotlib & Seaborn)
+6. Optimizing Parametric Functions, Integrattion & ODEs (SciPy & Scikit-learn)
+7. Testing, Profiling & Optimizing Performance [Philipp]
 8. Final Project
 
 Timetable

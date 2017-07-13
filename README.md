@@ -31,7 +31,8 @@ Timetable
 | 16:00 - 17:30 | Block 4      | Block 8      |
 
 Online Resources
----------
+----------------
 * [Learn X in Y minutes where X = Python](https://learnxinyminutes.com/docs/python/)
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pythonic Preambulations](http://jakevdp.github.io/)
+* [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)

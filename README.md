@@ -3,7 +3,7 @@ BIST Python Bootcamp
 
 Suggested Installation
 ----------------------
-1. Anaconda with Jupyter and Spyder (or another editor)
+1. Anaconda3 with Jupyter and Spyder (or another editor)
 2. The python packages NumPy, Pandas, SciPy, Matplotlib, Seaborn & Scikit-learn
 3. Git
 

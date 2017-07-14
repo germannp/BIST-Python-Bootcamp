@@ -1,11 +1,11 @@
 0 - Preliminary Requirements for BIST Python Bootcamp  
 =====================================================
   
-Welcome to the BIST Python Bootcamp! So, what do we hope to achieve? Well for those who have used spreadsheet like Microsoft Excel for their data analysis, we hope to convert you to the power of using a programming language. This will hopefully allow you analyse much larger data sets than Excel can handle and allow a lot more different types of analysis and visualisation of the data. Though it might not seem like it when you are beginning to learn to program, trust us when we say that as you become more proficient in programming you will actual find it easier and quicker to work with data this way. Hopefully by the end of this bootcamp, you will have a firm grasp of programming in Python, with good skills in applying this to data analysis and visualisation. Going forward you should have a strong grounding in programming and might wish to develop skills in data mining or computational modelling - useful skills to have in Science and many other careers.  
+Welcome to the BIST Python Bootcamp! So, what do we hope to achieve? Well for those who have used spreadsheet like Microsoft Excel for their data analysis, we hope to convert you to the power of using a programming language. This will hopefully allow you analyse much larger data sets than Excel can handle and allow a lot more different types of analysis and visualisation of the data. Though it might not seem like it, when you are beginning to learn to program, trust us when we say that as you become more proficient in programming you will actual find it easier and quicker to work with data this way. Hopefully by the end of this bootcamp, you will have a firm grasp of programming in Python, with good skills in applying this to data analysis and visualisation. Going forward you should have a strong grounding in programming and might wish to develop skills in data mining or computational modelling - useful skills to have in Science and many other careers.  
 
 Before the bootcamp it will be very helpful if you could install Python 3 on your computer as described in **Section 0.1**, which should set you up nicely for the course and hopefully any data analysis you need to do during your Masters.  
 
-In **Section 0.2** We have included some some resources for those coming to Python from either Matlab or R, or those who are new to programming. These are optional, you do not need to access them, as we will cover this and more during the bootcamp.  
+In **Section 0.2** we have included some some resources for those coming to Python from either Matlab or R, or those who are new to programming. These are optional, you do not need to access them, as we will cover this and more during the bootcamp.  
 
 As well as teaching you to program in Python, we also hope to teach you good programming practices like version control. This will include setting up a Github account, as described in **Section 0.3**. We will also cover this during the course, though you are more than welcome to try it out before hand and indeed download the course's contents before the start.  
 
@@ -25,14 +25,14 @@ If you got no errors you are more than ready to start the bootcamp! If not, no w
 0.2 Additional Resources  
 ------------------------
 
-+ For those new to programming and would like to try out Python before the bootcamp, we can recommend [www.codecademy.com/learn/python](https://www.codecademy.com/learn/python). Though we will cover this and more in the bootcamp.
++ For those new to programming and would like to try out Python before the bootcamp, we can recommend [www.codecademy.com/learn/python](https://www.codecademy.com/learn/python). Though we will cover the relevant content in this online course, and more, in the bootcamp.
 + For those coming from Matlab or R, there is a useful summary of how the commands for each programming language compare at [mathesaurus.sourceforge.net/matlab-python-xref.pdf](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf).
-+ Finally, for those already experienced in Python, you will be welcome to hopefully learn some new tricks. Also all students are encouraged to work together and help other students.
++ Finally, for those already experienced in Python, you will be welcome to hopefully learn some new tricks. Also all students are encouraged to work together and help other students in the bootcamp.
 
 0.3 Github  
 ------------------------
 
-In setting up this course, we have stored all the course material on [github - github.com/philipp-germann/BIST-Python-Bootcamp](https://github.com/philipp-germann/BIST-Python-Bootcamp). In the course we will be using github to help with version control of the code you will produce. We will cover it in the bootcamp, if you want to make your own account and experiment.  
+In setting up this course, we have stored all the course material on [github - github.com/philipp-germann/BIST-Python-Bootcamp](https://github.com/philipp-germann/BIST-Python-Bootcamp). In the bootcamp we will be using github to help with version control of the code you will produce, if you want to make your own account and experiment with Guthub before the bootcamp, please do.  
   
   
-As said above, the main takeway is to install Python3 on your computer. We look forward to seeing you at the bootcamp.
+As said above, the main takeaway is to install Python3 on your computer, everything else is optional. We look forward to seeing you at the bootcamp.

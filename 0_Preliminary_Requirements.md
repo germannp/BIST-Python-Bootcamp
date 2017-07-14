@@ -12,7 +12,7 @@ As well as teaching you to program in Python, we also hope to teach you good pro
 0.1 Installing Python3 on your computer  
 ---------------------------------------
 
-You may already have Python3 installed on your computer (especially if you have a Mac or Linux distribution). However we would like you install [Anaconda Python 3.6 version](https://www.continuum.io/downloads), which nicely supports Windows, Mac and Linux machines and will include the right version of Python and all the scientific packages you need for this bootcamp. If you have problems with the installation and Google is no help, we will do our best to help you in the first session of the bootcamp. If you do not have a computer which you can bring to the bootcamp, please contact the administrators of this course 
+You may already have Python3 installed on your computer (especially if you have a Mac or Linux distribution). However we would like you install [Anaconda Python 3.6 version - www.continuum.io/downloads](https://www.continuum.io/downloads), which nicely supports Windows, Mac and Linux machines and will include the right version of Python and all the scientific packages you need for this bootcamp. If you have problems with the installation and Google is no help, we will do our best to help you in the first session of the bootcamp. If you do not have a computer which you can bring to the bootcamp, please contact the administrators of this course.  
 
 Now that you have Python installed on your computer, you may want to try it out. The easiest way is to launch *Anaconda Navigator* from your applications. In the navigator, double click on *qtconsole* to launch a window which you can input some code. Why not try out typing these and hitting enter after each one:
 
@@ -25,4 +25,14 @@ If you got no errors you are more than ready to start the bootcamp! If not, no w
 0.2 Additional Resources  
 ------------------------
 
++ For those new to programming and would like to try out Python before the bootcamp, we can recommend [www.codecademy.com/learn/python](https://www.codecademy.com/learn/python). Though we will cover this and more in the bootcamp.
++ For those coming from Matlab or R, there is a useful summary of how the commands for each programming language compare at [mathesaurus.sourceforge.net/matlab-python-xref.pdf](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf).
++ Finally, for those already experienced in Python, you will be welcome to hopefully learn some new tricks. Also all students are encouraged to work together and help other students.
 
+0.3 Github  
+------------------------
+
+In setting up this course, we have stored all the course material on [github - github.com/philipp-germann/BIST-Python-Bootcamp](https://github.com/philipp-germann/BIST-Python-Bootcamp). In the course we will be using github to help with version control of the code you will produce. We will cover it in the bootcamp, if you want to make your own account and experiment.  
+  
+  
+As said above, the main takeway is to install Python3 on your computer. We look forward to seeing you at the bootcamp.

@@ -14,7 +14,7 @@ Sessions
 3. Operations, Types, Functions
 4. Vectors, Matrices & Dataframes (NumPy & Pandas)
 5. Plotting, Data Visualization & Exploration (Matplotlib & Seaborn)
-6. Optimizing Parametric Functions, Integrattion & ODEs (SciPy & Scikit-learn)
+6. Optimizing Parametric Functions, Integration & ODEs (SciPy & Scikit-learn)
 7. Testing, Profiling & Optimizing Performance [Philipp]
 8. Final Project
 

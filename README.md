@@ -10,7 +10,7 @@ Suggested Installation
 Sessions
 --------
 1. Anaconda, Jupyter, Spyder, Git & Best Practices [Justin & Philipp]
-2. Introduction to Python
+2. Introduction to Python [Justin]
 3. Operations, Types, Functions
 4. Vectors, Matrices & Dataframes (NumPy & Pandas)
 5. Plotting, Data Visualization & Exploration (Matplotlib & Seaborn)

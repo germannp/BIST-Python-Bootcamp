@@ -12,8 +12,8 @@ Sessions
 1. Anaconda, Jupyter, Spyder, Git & Best Practices [Justin & Philipp]
 2. Introduction to Python [Justin]
 3. Operations, Types, Functions
-4. Vectors, Matrices & Dataframes (NumPy & Pandas)
-5. Plotting, Data Visualization & Exploration (Matplotlib & Seaborn)
+4. Vectors, Matrices & Dataframes (NumPy & Pandas) [Alex]
+5. Plotting, Data Visualization & Exploration (Matplotlib & Seaborn) [Alex]
 6. Optimizing Parametric Functions, Integration & ODEs (SciPy & Scikit-learn)
 7. Testing, Profiling & Optimizing Performance [Philipp]
 8. Final Project

@@ -11,9 +11,9 @@ Sessions
 --------
 1. Git, Anaconda, Jupyter, Spyder [Justin & Philipp]
 2. Introduction to Python [Justin]
-3. Types, Functions, Modules
-4. Vectors, Matrices, Dataframes (NumPy & Pandas) [Alex]
-5. Plotting, Data Visualization, Exploration (Matplotlib & Seaborn) [Alex]
+3. Types, Functions, Modules [Ilario]
+4. Vectors, Matrices, Dataframes (NumPy & Pandas) [Ilario & Alex]
+5. Plotting, Data Visualization, Exploration (Matplotlib, Seaborn & Bokeh) [Alex]
 6. Optimizing Parametric Functions, Integration, ODEs (SciPy & Scikit-learn)
 7. Best Practices, Testing, Performance [Philipp]
 8. Final Project
@@ -37,4 +37,5 @@ Online Resources
 * [Pythonic Preambulations](http://jakevdp.github.io/)
 * [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
 * [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
+* [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)

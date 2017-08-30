@@ -34,6 +34,7 @@ Online Resources
 ----------------
 * [Learn X in Y minutes where X = Python](https://learnxinyminutes.com/docs/python/)
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Pythonic Preambulations](http://jakevdp.github.io/)
 * [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
 * [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)

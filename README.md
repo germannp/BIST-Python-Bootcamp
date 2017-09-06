@@ -11,7 +11,7 @@ Sessions
 --------
 1. Git, Anaconda, Jupyter, Spyder [Justin & Philipp]
 2. Introduction to Python [Justin]
-3. Types, Functions, Modules [Ilario]
+3. Types, Functions, Flow Control [Ilario]
 4. Vectors, Matrices, Dataframes (NumPy & Pandas) [Ilario & Alex]
 5. Plotting, Data Visualization, Exploration (Matplotlib, Seaborn & Bokeh) [Alex]
 6. Optimizing Parametric Functions, Integration, ODEs (SciPy & Scikit-learn) [Antoni]

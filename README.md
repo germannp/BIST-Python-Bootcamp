@@ -33,7 +33,9 @@ Timetable
 Online Resources
 ----------------
 * [Learn X in Y minutes where X = Python](https://learnxinyminutes.com/docs/python/)
+* [The Python Tutorial](https://docs.python.org/3.6/tutorial/index.html)
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Pythonic Preambulations](http://jakevdp.github.io/)
 * [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)

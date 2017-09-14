@@ -2,11 +2,11 @@
   
 Welcome to the BIST Python Bootcamp! So, what do we hope to achieve? Well for those who have used spreadsheet like Microsoft Excel for their data analysis, we hope to convert you to the power of using a programming language. This will hopefully allow you analyse much larger data sets than Excel can handle and allow a lot more different types of analysis and visualisation of the data. Though it might not seem like it, when you are beginning to learn to program, trust us when we say that as you become more proficient in programming you will actual find it easier and quicker to work with data this way. Hopefully by the end of this bootcamp, you will have a firm grasp of programming in Python, with good skills in applying this to data analysis and visualisation. Going forward you should have a strong grounding in programming and might wish to develop skills in data mining or computational modelling - useful skills to have in Science and many other careers.  
 
-Before the bootcamp it will be very helpful if you could install Python 3 on your computer as described in **Section 0.1**, which should set you up nicely for the course and hopefully any data analysis you need to do during your Masters.  
+Before the bootcamp it will be very helpful if you could install Python 3 on your computer as described in the section below, which should set you up nicely for the course and hopefully any data analysis you need to do during your Masters.  
 
-In **Section 0.2** we have included some some resources for those coming to Python from either Matlab or R, or those who are new to programming. These are optional, you do not need to access them, as we will cover this and more during the bootcamp.  
+We have included some some resources for those coming to Python from either Matlab or R, or those who are new to programming. These are optional, you do not need to access them, as we will cover this and more during the bootcamp.  
 
-As well as teaching you to program in Python, we also hope to teach you good programming practices like version control. This will include setting up a Github account, as described in **Section 0.3**. We will also cover this during the course, though you are more than welcome to try it out before hand and indeed download the course's contents before the start.  
+As well as teaching you to program in Python, we also hope to teach you good programming practices like version control. This will include setting up a Github account, as described in the last section. We will also cover this during the course, though you are more than welcome to try it out before hand and indeed download the course's contents before the start.  
 
 
 ## Installing Python3 on Your Computer  

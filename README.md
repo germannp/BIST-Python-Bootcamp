@@ -42,5 +42,6 @@ Online Resources
 * [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
 * [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
+* [The Python Graph Gallery](https://python-graph-gallery.com/)
 
-Copyright © 2017 Fundació Centre de Regulació Genòmica and Institut de Ciències Fotòniques. All rights reserved.
+Copyright © 2017 Fundació Centre de Regulació Genòmica, Institut de Ciències Fotòniques, and European Molecular Biology Laboratory. All rights reserved.

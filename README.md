@@ -9,26 +9,22 @@ Suggested Installation
 
 Sessions
 --------
-1. Git, Anaconda, Jupyter, Spyder [Justin & Philipp]
-2. Introduction to Python [Justin]
-3. Types, Functions, Flow Control [Ilario]
-4. Vectors, Matrices, Dataframes (NumPy & Pandas) [Ilario & Alex]
-5. Plotting, Data Visualization, Exploration (Matplotlib, Seaborn & Bokeh) [Alex]
-6. Optimizing Parametric Functions, Integration, ODEs (SciPy & Scikit-learn) [Antoni]
-7. Best Practices, Testing, Performance [Philipp]
+1. Git, Anaconda, Jupyter, Spyder
+2. Introduction to Python
+3. Types, Functions, Flow Control
+4. Vectors, Matrices, Dataframes (NumPy & Pandas)
+5. Plotting, Data Visualization, Exploration (Matplotlib, Seaborn & Bokeh)
+6. Optimizing Parametric Functions, Integration, ODEs (SciPy & Scikit-learn)
+7. Best Practices, Testing, Performance
 8. Final Project
 
 Timetable
 ---------
-|               | September 13 | September 14 |
-|---------------|--------------|--------------|
-| 09:30 - 11:00 | Block 1      | Block 5      |
-| 11:00 - 11:30 | Coffee Break |              |
-| 11:30 - 13:00 | Block 2      | Block 6      |
-| 13:00 - 14:00 | Lunch        |              |
-| 14:00 - 15:30 | Block 3      | Block 7      |
-| 15:30 - 16:00 | Coffee Break |              |
-| 16:00 - 17:30 | Block 4      | Block 8      |
+|             | Sept. 13               | Sept. 14       | Sept. 18           | Sept. 20       |
+|-------------|------------------------|----------------|--------------------|----------------|
+| 10:30-12:30 |                        | Buffer         |                    |                |
+| 14:00-15:30 | Set up                 | Numpy & Pandas | Plotting           | Best Practices |
+| 15:30-17:00 | Types, functions, flow | Buffer         | Optimization, ODEs | Final Projects |
 
 Online Resources
 ----------------
@@ -44,4 +40,4 @@ Online Resources
 * [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
 * [The Python Graph Gallery](https://python-graph-gallery.com/)
 
-Copyright © 2017 Fundació Centre de Regulació Genòmica, Institut de Ciències Fotòniques, and European Molecular Biology Laboratory. All rights reserved.
+Copyright © 2017-2018 Fundació Centre de Regulació Genòmica, Institut de Ciències Fotòniques, and European Molecular Biology Laboratory. All rights reserved.

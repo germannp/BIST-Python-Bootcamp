@@ -31,7 +31,7 @@ If you got no errors you are more than ready to start the bootcamp! If not, no w
 
 ## Git
 
-Git is a version control software that lets you keep track of the history of your code, data, and documents. To download the course materials run `$ git clone https://github.com/germannp/BIST-Python-Bootcamp.git`.
+Git is a version control software that lets you keep track of the history of your code, data, and documents. To download the course materials run `$ git clone -b student https://github.com/germannp/BIST-Python-Bootcamp.git`. The `-b student` option clones the branch without solutions to the exercices.
 
 ### Versioning
 You can view your changes to tracked files using `$ git diff` and get an overview using `$ git status`. You can then stage changes using `$ git add file-name` and create a checkpoint with the staged changes using `$ git commit -m "Commit message"`. This message should be short, if you want to add more information skip the `-m` and your default editor will open, where you can enter an additional commit message. To move or delete tracked files use `$ git mv` and `$ git rm` respectively. To see the history with `$ git log` and go back to any point using `$ git checkout #commit-hash`.

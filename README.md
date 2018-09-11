@@ -7,17 +7,6 @@ Suggested Installation
 2. The python packages NumPy, Pandas, SciPy, Matplotlib, Seaborn & Scikit-learn
 3. Git
 
-Sessions
---------
-1. Git, Anaconda, Jupyter, Spyder
-2. Introduction to Python
-3. Types, Functions, Flow Control
-4. Vectors, Matrices, Dataframes (NumPy & Pandas)
-5. Plotting, Data Visualization, Exploration (Matplotlib, Seaborn & Bokeh)
-6. Optimizing Parametric Functions, Integration, ODEs (SciPy & Scikit-learn)
-7. Best Practices, Testing, Performance
-8. Final Project
-
 Timetable
 ---------
 |             | Sept. 13               | Sept. 14       | Sept. 18           | Sept. 20       |

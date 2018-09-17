@@ -12,8 +12,8 @@ Timetable
 |             | Sept. 13               | Sept. 14       | Sept. 18           | Sept. 20       |
 |-------------|------------------------|----------------|--------------------|----------------|
 | 10:30-12:30 |                        | Numpy & Pandas |                    |                |
-| 14:00-15:30 | Set up                 | Buffer         | Optimization, ODEs | Final Projects |
-| 15:30-17:00 | Types, functions, flow | Plotting       | Best Practices     | Final Projects |
+| 14:00-15:30 | Set up                 | Numpy & Pandas | Plotting           | Final Projects |
+| 15:30-17:00 | Types, functions, flow | Numpy & Pandas | Plot/Best Practices| Final Projects |
 
 Online Resources
 ----------------

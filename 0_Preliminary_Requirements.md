@@ -43,6 +43,9 @@ Your local git repository is connected to a remote repository, e.g. the one you 
 If you need to quickly interupt your current taks to work on something else you can save and remove your unstaged changes with `$ git stash` and restore them with `$ git stash apply`. If you want to keep track of several versions of your software, e.g. a stable version and one (for each new feature) under development, you can use [branches](https://git-scm.com/docs/git-branch).
 
 ### Course Material
-In setting up this course, we have stored all the course material on [github - github.com/germannp/BIST-Python-Bootcamp](https://github.com/philipp-germann/BIST-Python-Bootcamp). In the bootcamp we will be using github to help with version control of the code you will produce, if you want to make your own account and experiment with Guthub before the bootcamp, please do.  
+In setting up this course, we have stored all the course material on [github - github.com/germannp/BIST-Python-Bootcamp](https://github.com/philipp-germann/BIST-Python-Bootcamp). In the bootcamp we will be using github to help with version control of the code you will produce, if you want to make your own account and experiment with Guthub before the bootcamp, please do.
+
+### Versioning and Diffing Jupyter Notebooks
+Our course uses Jupyter Notebooks, because they can store both, code and plots. However, Jupyter Notebooks are notoriously difficult to compare and version. The [nbdime](https://nbdime.readthedocs.io/) package helps with this.
   
 As said above, the main takeaway is to install Python3 on your computer, everything else is optional. We look forward to seeing you at the bootcamp.

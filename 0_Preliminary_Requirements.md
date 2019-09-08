@@ -11,7 +11,7 @@ As well as teaching you to program in Python, we also hope to teach you good pro
 
 ## Installing Python3 on Your Computer  
 
-You may already have Python3 installed on your computer (especially if you have a Mac or Linux distribution). However we would like you install [Anaconda Python 3.6 version - www.continuum.io/downloads](https://www.continuum.io/downloads), which nicely supports Windows, Mac and Linux machines and will include the right version of Python and all the scientific packages you need for this bootcamp. If you have problems with the installation and Google is no help, we will do our best to help you in the first session of the bootcamp. If you do not have a computer which you can bring to the bootcamp, please contact the administrators of this course. 
+You may already have Python3 installed on your computer (especially if you have a Mac or Linux distribution). However we would like you install [Anaconda Python 3.7 version - www.anaconda.com/distribution/](https://www.anaconda.com/distribution/), which nicely supports Windows, Mac and Linux machines and will include the right version of Python and all the scientific packages you need for this bootcamp. If you have problems with the installation and Google is no help, we will do our best to help you in the first session of the bootcamp. If you do not have a computer which you can bring to the bootcamp, please contact the administrators of this course. 
 
 Now that you have Python installed on your computer, you may want to try it out. The easiest way is to launch *Anaconda Navigator* from your applications. In the navigator, double click on *qtconsole* to launch a window which you can input some code. Why not try out typing these and hitting enter after each one:
 

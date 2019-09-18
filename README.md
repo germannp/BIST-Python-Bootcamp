@@ -9,7 +9,7 @@ Suggested Installation
 
 Timetable
 ---------
-|             | Sept. 12               | Sept. 14       | Sept. 18       | Sept. 20       |
+|             | Sept. 12               | Sept. 14       | Sept. 18       | Sept. 19       |
 |-------------|------------------------|----------------|----------------|----------------|
 | 10:00-13:00 |                        | Numpy & Pandas | Optimization   |                |
 |             |                        | Plotting       | Best Practices |                |
